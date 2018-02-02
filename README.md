@@ -15,6 +15,7 @@ Arborescence :
 	
 
 Tuto Git depuis bash :
+
  	'git status' permet de savoir ou on en est
 	
 	'git add -A' permet d'ajouter ses modifications, -A pour tout prendre en compte, sinon il faut mettre le nom des fichiers que l'on a modifié
