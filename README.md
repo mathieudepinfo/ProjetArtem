@@ -9,8 +9,6 @@ Arborescence :
 	
 	-js contient les scripts javascript
 	
-	-index.php est la première page du site
-	
 	-bootstrap est une bibliothèque qui propose du css "responsive" pour les petits écrans
 	
 
